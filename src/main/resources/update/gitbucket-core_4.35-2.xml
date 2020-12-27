@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changeSet>
+  <renameTable newTableName="WEB_HOOK_BK" oldTableName="WEB_HOOK"/>
+  <renameTable newTableName="WEB_HOOK" oldTableName="WEB_HOOK_2"/>
+</changeSet>
